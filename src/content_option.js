@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/PrabhashDiss",
+    facebook: "https://facebook.com/prabhash.dissanayake",
+    linkedin: "https://www.linkedin.com/in/prabhash-dissanayake-019441217",
+    twitter: "https://twitter.com/PrabhashDissan1",
 };
 export {
     meta,
