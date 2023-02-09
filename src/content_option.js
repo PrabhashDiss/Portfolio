@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites.",
         third: "I develop mobile apps.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I consider myself a very energetic, hard-working, active learner and hard-working person. I further like to improve my knowledge by engaging in challenging tasks. I’m excellent at meeting deadlines.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
